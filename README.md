@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Frederic-K
 - 👀 I’m interested in ... crafting, reading, cooking, gaming nd ofc coding ^^
-- 🌱 I’m currently learning ... JS React :)
+- 🌱 I’m currently learning ... ReactJS :)
 - 💞️ I’m looking to collaborate on ... any exciting projet :D
 - 📫 How to reach me : 
   - discord: Ark#7442
