@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... any exciting projet :D
 - 📫 How to reach me : 
   - discord: Ark7442
-  - mail : frederic.kreuder@gmail.com
+  - mail : frederic.kreuder.pro@gmail.com
     
 - But why ? :D
   Because i'm passionate and curious, I like to get involved in projects combining technology and people.
