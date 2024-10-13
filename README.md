@@ -15,6 +15,8 @@
   Parce que je suis passionné et curieux, j'aime m'investir dans des projets alliant la technique et l'humain. 
   Déployer et administrer des solutions innovantes. Être à l'écoute, collaborer et accompagner. 
   Je souhaite aujourd'hui réunir mes compétences et les engager dans un domaine qui m'enthousiasme.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frederic-K)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Frederic-K/Frederic-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
